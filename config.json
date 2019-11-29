@@ -1,0 +1,11 @@
+{
+	"verbose": false,
+	"log": false,
+	"interval": "10",
+	"server": {
+		"name":"Minecraft Server",
+		"ip":"play.proteanmc.xyz",
+		"port":"25577"
+	},
+	"token": ""
+}
