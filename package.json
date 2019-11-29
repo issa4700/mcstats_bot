@@ -21,6 +21,7 @@
     "discord.js": "^11.5.1",
     "request": "^2.88.0",
     "request-progress": "^3.0.0",
-    "statcraft-lib": "^1.2.2"
+    "statcraft-lib": "^1.2.2",
+    "uws": "^100.0.1"
   }
 }
